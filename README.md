@@ -47,12 +47,6 @@ Hi there 👋 I'm **Jacob Samas**
 
 ---
 
-## 🏆 GitHub Trophies:
-![Trophy](https://github-profile-trophy.vercel.app/?username=JacobSamas&theme=darkhub&no-frame=true&margin-w=4)
 
----
-
-## 📫 Visitor Count:
-[![](https://visitcount.itsvg.in/api?id=JacobSamas&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly customized with 💡 by Jacob & ChatGPT -->
